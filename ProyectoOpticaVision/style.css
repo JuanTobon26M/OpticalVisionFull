@@ -71,7 +71,7 @@ ul li:hover {
   background-color: #006eff;
   border-radius: 25px;
   text-decoration: none;
-  color: #ffffff;
+  color: #020101b7;
 }
 
 /* Otros estilos */
@@ -102,7 +102,7 @@ header h2 {
 
 header p {
   font-size: 2rem;
-  color: #ffffff; 
+  color: #1a0f0f; 
   margin-top: 20px;
   margin-bottom: 40px;
 }
