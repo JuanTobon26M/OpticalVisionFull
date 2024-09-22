@@ -59,7 +59,7 @@ ul li {
 }
 
 ul li:hover {
-  background-color: #ff0000;
+  background-color: #00eeff;
   border-radius: 25px;
   text-decoration: none;
   color: #000000;
@@ -80,13 +80,13 @@ header .text-container {
   max-width: 600px;
 }
 
-header h1 {
-  font-size: 7rem;
+header h2 {
+  font-size: 5rem;
   color: #000000;
 }
 
-header h2 {
-  font-size: 4rem;
+header h3 {
+  font-size: 2rem;
   color: #000000;
 }
 
@@ -153,7 +153,7 @@ header button:hover {
   bottom: 20px;
   right: 20px;
   padding: 10px 20px;
-  background-color: black;
+  background-color: rgb(0, 0, 0);
   color: white;
   font-size: 1.6rem;
   border: none;
@@ -163,5 +163,6 @@ header button:hover {
 }
 
 .exit-button:hover {
-  background-color: red;
+  background-color: rgb(38, 0, 255,);
 }
+
