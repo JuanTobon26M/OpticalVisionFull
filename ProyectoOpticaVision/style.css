@@ -68,7 +68,7 @@ ul li {
 }
 
 ul li:hover {
-  background-color: #ff0000;
+  background-color: #006eff;
   border-radius: 25px;
   text-decoration: none;
   color: #ffffff;
@@ -106,6 +106,13 @@ header p {
   margin-top: 20px;
   margin-bottom: 40px;
 }
+ul li {
+  color: #ffffff;
+  cursor: pointer;
+
+}
+
+
 
 header button {
   padding: 0 5px;
