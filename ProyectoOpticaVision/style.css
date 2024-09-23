@@ -58,6 +58,28 @@ ul li {
   transition: all 0.3s ease 0s;
 }
 
+ul a {
+  display: inline-block;
+  list-style: none;
+  padding: 6px 20px;
+  font-weight: 500;
+  font-size: 1.7rem;
+  color: #000000;
+  text-decoration: underline;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+  border-radius: 25px;
+ }
+
+ ul a:hover {
+  background-color: #00eeff;
+  border-radius: 25px;
+  text-decoration: none;
+  color: #000000;
+
+ }
+
+
 ul li:hover {
   background-color: #00eeff;
   border-radius: 25px;
