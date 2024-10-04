@@ -188,3 +188,8 @@ header button:hover {
   background-color: rgb(38, 0, 255,);
 }
 
+#maps {
+  height: 500px;
+  width: 100%;
+
+}
